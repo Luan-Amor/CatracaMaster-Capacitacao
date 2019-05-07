@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Projeto de capacitação do *Time 03*
 
-Things you may want to cover:
+Site fictício de vendas de catracas inteligente. 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Front-End = Bootstrap, HTML, CSS e JavaScript (JQuery)
+- Back-End = API - Ruby on Rails
